@@ -33,7 +33,7 @@ body{
   font-family: var(--font);
   font-size: var(--normal-font-size);
   color: var(--text-color);
-  background-color: var(--bg-color);
+  background-color: var(--pink);
   background: url('bg-desktop.webp.jpg.jpg');
 }
 
